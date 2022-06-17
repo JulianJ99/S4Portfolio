@@ -1,5 +1,10 @@
 # My Learning Outcomes
 
+## Table of Contents
+1. [Learning outcome 1](https://github.com/JulianJ99/Portfolio/blob/main/IP/LearningOutcomes/readme.md#1-you-design-and-build-user-friendly-full-stack-web-applications)
+2. [Learning outcome 2](https://github.com/JulianJ99/Portfolio/blob/main/IP/LearningOutcomes/readme.md#2-you-use-software-tooling-and-methodology-that-continuously-monitors-and-improve-the-software-quality-during-software-development)
+3. [Learning outcome 3](https://github.com/JulianJ99/Portfolio/blob/main/IP/LearningOutcomes/readme.md#3-you-design-and-implement-a-semiautomated-software-release-process-that-matches-the-needs-of-the-project-context)
+4. [Learning outcome 4](https://github.com/JulianJ99/Portfolio/blob/main/IP/LearningOutcomes/readme.md#4-you-act-in-a-professional-manner-during-software-development-and-learning)
 
 ## 1. You design and build user-friendly, full-stack web applications
 
