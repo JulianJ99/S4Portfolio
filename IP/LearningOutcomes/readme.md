@@ -32,13 +32,13 @@ It works alongside the front-end through API requests; PostsDataServices.js in t
 Similarly, creating a new post is done through PostDataService.create(data) (where data uses the post and song strings made by the user, and the username and userimage of the logged-in account) by calling POST localhost:8081/api/posts to add that post to the in-memory repository.
 I've set up my project in this way for the sake of a clear structure; due to all functions requiring the same Post model, it seemed best to stick to a single PostController for the back-end. 
 
-![image](https://user-images.githubusercontent.com/84009857/174311537-fb108758-83a2-4c58-bb77-8a492d5b58ae.png)
+![image](https://user-images.githubusercontent.com/84009857/174318189-f8d8d8e6-60e3-40ad-8353-c9b766ca16c4.png)
 
-![image](https://user-images.githubusercontent.com/84009857/174311579-fb85d0df-c52c-40a1-82e9-a1de5b33fd62.png)
+![image](https://user-images.githubusercontent.com/84009857/174318417-8431e15d-8895-4fd9-b82f-e9b0c4c8d253.png)
 
-![image](https://user-images.githubusercontent.com/84009857/174311609-265dae4e-506f-49b6-b524-14a5beeecf64.png)
+![image](https://user-images.githubusercontent.com/84009857/174318462-f79f00d2-c03f-4480-a61c-5aedc41bcc59.png)
 
-![image](https://user-images.githubusercontent.com/84009857/174311635-386d41e0-49a0-4c0c-b169-942b55b38ec0.png)
+![image](https://user-images.githubusercontent.com/84009857/174318867-2f2cbaff-99f9-44a8-8e76-ba725cbaaada.png)
 
 
 ## 2. You use software tooling and methodology that continuously monitors and improve the software quality during software development.
@@ -65,13 +65,13 @@ I decided to apply Integration Tests to my project to check whether or not the b
 
 #### CreatePostTest
 
-![image](https://user-images.githubusercontent.com/84009857/174311761-5cac9da2-b510-4f62-acb6-03171391385b.png)
+![image](https://user-images.githubusercontent.com/84009857/174319023-da6c63a3-6a03-4c70-8644-817ede2415b1.png)
 
 ![image](https://user-images.githubusercontent.com/84009857/174311786-7c44c29b-646a-44d2-bbbd-43da9877df62.png)
 
 #### GetAllPostsTest
 
-![image](https://user-images.githubusercontent.com/84009857/174311831-472415d2-6d33-4a67-b8bb-147662c161a7.png)
+![image](https://user-images.githubusercontent.com/84009857/174319029-fb586fb4-6773-4863-af1d-1c6db941b768.png)
 
 ![image](https://user-images.githubusercontent.com/84009857/174311868-3f1f2354-b1db-45e5-8f34-5f77f6305be6.png)
 
@@ -107,4 +107,6 @@ I also made sure to use GitHub so that I could easily push my changes between th
 
 I&#39;ve also made use of the Pomodoro Technique to stay focused while working, which was recommended to me by my teacher. It&#39;s essentially a timer technique that allows you to stay focused by rewarding you with a short break every time the timer runs out. Usually I&#39;d be working for 25 minutes and would then take a break for 5 minutes and repeat that process. It sounds silly, but it helped my concentration a lot.
 
-The site I used for this was https://pomofocus.io/ ![image](https://user-images.githubusercontent.com/84009857/174312242-5329bae9-9039-46bd-b03b-3e7bc1e3c891.png)
+The site I used for this was https://pomofocus.io/ 
+
+![image](https://user-images.githubusercontent.com/84009857/174319181-d7cf9345-0c7f-4b0c-b15f-967c47b5101c.png)
