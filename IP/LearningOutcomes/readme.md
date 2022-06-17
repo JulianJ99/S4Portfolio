@@ -112,6 +112,6 @@ The site I used for this was https://pomofocus.io/
 ![image](https://user-images.githubusercontent.com/84009857/174319181-d7cf9345-0c7f-4b0c-b15f-967c47b5101c.png)
 
 ## Linked repositories: 
-[Frontend](https://github.com/JulianJ99/S3IP)
+[Front-end](https://github.com/JulianJ99/S3IP)
 
-[Backend](https://github.com/JulianJ99/PostCRUD)
+[Back-end](https://github.com/JulianJ99/PostCRUD)
