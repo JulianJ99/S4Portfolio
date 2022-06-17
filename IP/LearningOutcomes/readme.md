@@ -18,7 +18,7 @@ As is expected of Vue applications, I've split up every functionality in it's ow
 
 ### Auth0
 
-I&#39;ve decided to use Auth0 for my authentication service – I used my research of identity services to reach that conclusion, and have decided that Auth0 seems best because coming up with your own login system means having to keep so many security details in mind that you&#39;d end up spending a ton of time doing something that could be handled more efficiently and reliably.
+I&#39;ve decided to use Auth0 for my authentication service – I used my [Identity Service Research](https://github.com/JulianJ99/Portfolio/tree/main/IP/Research/IdentityServiceResearch)  to reach that conclusion, and have decided that Auth0 seems best because coming up with your own login system means having to keep so many security details in mind that you&#39;d end up spending a ton of time doing something that could be handled more efficiently and reliably.
 
 By clicking the Login button, you&#39;ll be brought to the Auth0 page where you can login through either an Auth0 account or by using your Google account.
 
