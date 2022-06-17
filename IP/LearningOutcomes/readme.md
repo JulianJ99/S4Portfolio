@@ -30,7 +30,8 @@ https://github.com/JulianJ99/PostCRUD
 The PostCRUD project serves as the back-end – it connects with the Front-end through the usage of Springboot, a backend framework that calls the database on all functions that require the back-end. 
 It works alongside the front-end through API requests; PostsDataServices.js in the front-end uses the http links required for these functions to access the functions in the back-end. So when PostDataService.GetAll gets called, it uses GET localhost:8081/api/posts to fetch all posts for the front-end, for example. 
 Similarly, creating a new post is done through PostDataService.create(data) (where data uses the post and song strings made by the user, and the username and userimage of the logged-in account) by calling POST localhost:8081/api/posts to add that post to the in-memory repository.
-I've set up my project in this way for the sake of a clear structure; due to all functions requiring the same Post model, it seemed best to stick to a single PostController for the back-end. 
+
+I've set up my back-end project in this way for the sake of a clear structure; due to all functions requiring the same Post model, it seemed best to stick to a single PostController for it's functions.
 
 ![image](https://user-images.githubusercontent.com/84009857/174318189-f8d8d8e6-60e3-40ad-8353-c9b766ca16c4.png)
 
