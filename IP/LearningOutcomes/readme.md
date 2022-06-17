@@ -107,7 +107,7 @@ I also made sure to use GitHub so that I could easily push my changes between th
 
 I&#39;ve also made use of the Pomodoro Technique to stay focused while working, which was recommended to me by my teacher. It&#39;s essentially a timer technique that allows you to stay focused by rewarding you with a short break every time the timer runs out. Usually I&#39;d be working for 25 minutes and would then take a break for 5 minutes and repeat that process. It sounds silly, but it helped my concentration a lot.
 
-The site I used for this was https://pomofocus.io/ 
+The site I used for this was [Pomofocus](https://pomofocus.io) 
 
 ![image](https://user-images.githubusercontent.com/84009857/174319181-d7cf9345-0c7f-4b0c-b15f-967c47b5101c.png)
 
