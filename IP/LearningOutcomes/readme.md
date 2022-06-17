@@ -25,7 +25,6 @@ By clicking the Login button, you&#39;ll be brought to the Auth0 page where you 
 
 ### PostCRUD Back-end
 
-
 The PostCRUD project serves as the back-end – it connects with the Front-end through the usage of Springboot, a backend framework that calls the database on all functions that require the back-end. 
 It works alongside the front-end through API requests; PostsDataServices.js in the front-end uses the http links required for these functions to access the functions in the back-end. So when PostDataService.GetAll gets called, it uses GET localhost:8081/api/posts to fetch all posts for the front-end, for example. 
 Similarly, creating a new post is done through PostDataService.create(data) (where data uses the post and song strings made by the user, and the username and userimage of the logged-in account) by calling POST localhost:8081/api/posts to add that post to the in-memory repository.
@@ -90,9 +89,9 @@ To ensure that the quality of my code is continuously monitored, I&#39;ve also s
 
 For this learning outcome I&#39;ve decided to use Docker – by pulling my Github repositories into Docker, it&#39;s able to generate an image which can be ran using a Docker container; this allows you to start up either of the projects through PowerShell, without needing a code editor to boot these up, which speeds up development by a lot.
 
-[https://hub.docker.com/r/julian99janssen/vue](https://hub.docker.com/r/julian99janssen/vue)
+[Front-end Docker container](https://hub.docker.com/r/julian99janssen/vue)
 
-[https://hub.docker.com/r/julian99janssen/springboot](https://hub.docker.com/r/julian99janssen/springboot)
+[Back-end Docker container](https://hub.docker.com/r/julian99janssen/springboot)
 
 ![image](https://user-images.githubusercontent.com/84009857/174311985-838aefad-4486-46a6-a7d0-1716dea5d5a4.png)
 
@@ -107,7 +106,7 @@ I also made sure to use GitHub so that I could easily push my changes between th
 
 I&#39;ve also made use of the Pomodoro Technique to stay focused while working, which was recommended to me by my teacher. It&#39;s essentially a timer technique that allows you to stay focused by rewarding you with a short break every time the timer runs out. Usually I&#39;d be working for 25 minutes and would then take a break for 5 minutes and repeat that process. It sounds silly, but it helped my concentration a lot.
 
-The site I used for this was [Pomofocus](https://pomofocus.io) 
+The site I used for this was https://pomofocus.io/ 
 
 ![image](https://user-images.githubusercontent.com/84009857/174319181-d7cf9345-0c7f-4b0c-b15f-967c47b5101c.png)
 
