@@ -4,7 +4,6 @@
 ## 1. You design and build user-friendly, full-stack web applications
 
 ### S3IP Front-end
-https://github.com/JulianJ99/S3IP
 
 I&#39;ve decided to use Vue for my front-end due to the pros and cons I could find about of the recommended JavaScript frameworks; although there&#39;s a few problems like a smaller variety of tutorials and plug-ins, it seemed like it was great to work with due to it&#39;s focus on components, making it&#39;s code easy to comprehend by the way it splits everything up in separate files.
  Ironically enough, by the end of the semester it&#39;s actually the JavaScript framework I&#39;d recommend the least; at least for now, due to the upgrade from Vue 2 to Vue 3 still being a bit messy. There&#39;s a lot of plug-ins that haven&#39;t yet made their way to Vue 3 and the lacking amount of tutorials only gets worse with the new version due to that being more recent, meaning you&#39;d generally find more solutions that worked for Vue 2 but not yet for Vue 3, which makes for a very exhausting process if you&#39;re running into errors you can&#39;t figure out yourself. That was probably my biggest obstacle during this semester, but it&#39;s a learning process all the same and I&#39;m glad I managed to make the most of it nevertheless.
@@ -25,7 +24,7 @@ By clicking the Login button, you&#39;ll be brought to the Auth0 page where you 
 ![image](https://user-images.githubusercontent.com/84009857/174311338-774ba94e-e723-48d6-99d0-cf9312cedfc7.png) ![image](https://user-images.githubusercontent.com/84009857/174311398-aa40de52-b243-4930-be74-61cb34df3895.png) ![image](https://user-images.githubusercontent.com/84009857/174311434-a4c9abec-9bea-4d90-9fbb-54dbb09eb3e1.png)
 
 ### PostCRUD Back-end
-https://github.com/JulianJ99/PostCRUD
+
 
 The PostCRUD project serves as the back-end – it connects with the Front-end through the usage of Springboot, a backend framework that calls the database on all functions that require the back-end. 
 It works alongside the front-end through API requests; PostsDataServices.js in the front-end uses the http links required for these functions to access the functions in the back-end. So when PostDataService.GetAll gets called, it uses GET localhost:8081/api/posts to fetch all posts for the front-end, for example. 
@@ -111,3 +110,8 @@ I&#39;ve also made use of the Pomodoro Technique to stay focused while working, 
 The site I used for this was https://pomofocus.io/ 
 
 ![image](https://user-images.githubusercontent.com/84009857/174319181-d7cf9345-0c7f-4b0c-b15f-967c47b5101c.png)
+
+## Linked repositories: 
+[Frontend](https://github.com/JulianJ99/S3IP)
+
+[Backend](https://github.com/JulianJ99/PostCRUD)
