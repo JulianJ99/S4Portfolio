@@ -1,5 +1,12 @@
 # My documentation
 
+## Table of Contents
+[User Stories](https://github.com/JulianJ99/Portfolio/tree/main/IP/Documentation#user-stories)
+
+[Domain Model](https://github.com/JulianJ99/Portfolio/tree/main/IP/Documentation#domain-model)
+
+[C4 Model](https://github.com/JulianJ99/Portfolio/tree/main/IP/Documentation#c4-model)
+
 ## User Stories
 
 User Stories are a general explanation of a functionality written from the perspective of a user – it helps put into perspective how a feature will provide value to the user.
