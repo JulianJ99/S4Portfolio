@@ -9,9 +9,11 @@
 ## 1. You design and build user-friendly, full-stack web applications
 
 ### S3IP Front-end
+![image](https://user-images.githubusercontent.com/84009857/174324668-46cd5b67-c6a1-4443-9fad-b6e3bd8bef52.png)
 
 I&#39;ve decided to use Vue for my front-end due to the pros and cons I could find about of the recommended JavaScript frameworks; although there&#39;s a few problems like a smaller variety of tutorials and plug-ins, it seemed like it was great to work with due to it&#39;s focus on components, making it&#39;s code easy to comprehend by the way it splits everything up in separate files.
- Ironically enough, by the end of the semester it&#39;s actually the JavaScript framework I&#39;d recommend the least; at least for now, due to the upgrade from Vue 2 to Vue 3 still being a bit messy. There&#39;s a lot of plug-ins that haven&#39;t yet made their way to Vue 3 and the lacking amount of tutorials only gets worse with the new version due to that being more recent, meaning you&#39;d generally find more solutions that worked for Vue 2 but not yet for Vue 3, which makes for a very exhausting process if you&#39;re running into errors you can&#39;t figure out yourself. That was probably my biggest obstacle during this semester, but it&#39;s a learning process all the same and I&#39;m glad I managed to make the most of it nevertheless.
+
+Ironically enough, by the end of the semester it&#39;s actually the JavaScript framework I&#39;d recommend the least; at least for now, due to the upgrade from Vue 2 to Vue 3 still being a bit messy. There&#39;s a lot of plug-ins that haven&#39;t yet made their way to Vue 3 and the lacking amount of tutorials only gets worse with the new version due to that being more recent, meaning you&#39;d generally find more solutions that worked for Vue 2 but not yet for Vue 3, which makes for a very exhausting process if you&#39;re running into errors you can&#39;t figure out yourself. That was probably my biggest obstacle during this semester, but it&#39;s a learning process all the same and I&#39;m glad I managed to make the most of it nevertheless.
 
 The front-end application calls the API services to create posts and get all posts; It pulls all the posts from PostController. It&#39;s a single-page application where the user is able to create posts after logging in through Auth0.
 As is expected of Vue applications, I've split up every functionality in it's own seperate component, which in this case is:
@@ -73,11 +75,15 @@ I decided to apply Integration Tests to my project to check whether or not the b
 
 ![image](https://user-images.githubusercontent.com/84009857/174311786-7c44c29b-646a-44d2-bbbd-43da9877df62.png)
 
+This test creates a post in the same way the user would in the front-end, and then checks whether or not the post details get sent to the API properly. Auth0 details can't be sent this way, so for now it's all Test1 strings - but that's been properly tested in the front-end through manual trial-and-error.
+
 #### GetAllPostsTest
 
 ![image](https://user-images.githubusercontent.com/84009857/174319029-fb586fb4-6773-4863-af1d-1c6db941b768.png)
 
 ![image](https://user-images.githubusercontent.com/84009857/174311868-3f1f2354-b1db-45e5-8f34-5f77f6305be6.png)
+
+This test saves two test posts in the Repository (which sets up the in-memory database) and then uses the JsonPath expression size to check whether the database has as much posts added to it as the size of the array lists of posts that was saved to the Repository beforehand to assure adding posts works well, even when done in bulk.  
 
 Unfortunately I did not manage to create any other tests due to time constraints; I decided on integration tests for the aforementioned reason of the database essentially being the core of the project (due to getting and creating posts, the current main features of the project both relying on it) and therefore I felt like integration tests were the best form of testing for this project due to being able to test the back-end functions and their connection to the database at the same time.
 
