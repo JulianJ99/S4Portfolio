@@ -49,19 +49,19 @@ Acceptance criteria: User&#39;s name and profile image has to be added to the po
 
 The domain model is the concept of the domain that makes use of both behaviour and data. It&#39;s essentially a first sketch of the classes necessary to make the project work, which in this project&#39;s case makes for a pretty meagre amount of classes, but the relationships between them is still important to pay attention to in all stages of the project.
 
-![image](https://user-images.githubusercontent.com/84009857/174314729-daa130f9-96c9-433d-a7f2-9f20397d4fae.png)
+![image](https://user-images.githubusercontent.com/84009857/174319666-06d67908-3390-4318-8c53-34228220acd5.png)
 
 # C4 Model
 
 ### Level 1; System Context diagram
 
-![image](https://user-images.githubusercontent.com/84009857/174314762-b01f8757-656e-46cb-b785-22264da8b07e.png)
+![image](https://user-images.githubusercontent.com/84009857/174319657-b60c51c2-6fde-494b-8573-9a409d322b11.png)
 
 The C1 model is a System Context diagram meant to help you step back and see the big picture, and as a result it&#39;s a great starting point for diagramming and documenting a software system. Here&#39;s where you can see how I had originally planned my project to work; by giving administrators a separate frontend where they&#39;d have all of their administrative features. I eventually had to drop RBAC (Role-Based Access Control) due to time constraints.
 
 ### Level 3; Component Diagram
 
-![image](https://user-images.githubusercontent.com/84009857/174314811-120c2998-6829-4fdd-b1c7-839303d3f190.png)
+![image](https://user-images.githubusercontent.com/84009857/174319661-d0ba1fba-207f-47d0-9653-0829ad4f60aa.png)
 
 The C3 Model is all about zooming in and decomposing every container further to identify the major structural building blocks and their interactions. In this case, considering the back-end uses one controller, I&#39;ve decided to zoom in on that one and see how it&#39;s functions are expected to work with the database and what it sends/receives from it.
 
