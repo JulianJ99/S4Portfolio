@@ -108,6 +108,14 @@ For this learning outcome I&#39;ve decided to use Docker – by pulling my Githu
 
 ![image](https://user-images.githubusercontent.com/84009857/174312019-3087e099-48d7-4759-be7d-bb23921fb163.png)
 
+To make this happen, I used these Dockerfiles in the Front-end and Back-end respectively;
+
+![image](https://user-images.githubusercontent.com/84009857/174471843-07898975-3f9d-495c-81e9-0ce8f7bff2e2.png)
+
+![image](https://user-images.githubusercontent.com/84009857/174471878-2ea7d6ea-48b8-499d-8ba3-7cfe8459fb2e.png)
+
+These allow Docker to recognize on which ports the front-end and back-end are located, and through doing so it can boot up the projects on the aforementioned ports to make sure it runs as expected.
+Thanks to the front-end Dockerfile, it notices that it's allowed to use the commands NPM, Run and Serve which allows it to boot up the front-end through the command line.
 
 ## 4. You act in a professional manner during software development and learning.
 
