@@ -117,6 +117,18 @@ To make this happen, I used these Dockerfiles in the Front-end and Back-end resp
 These allow Docker to recognize on which ports the front-end and back-end are located, and through doing so it can boot up the projects on the aforementioned ports to make sure it runs as expected.
 Thanks to the front-end Dockerfile, it notices that it's allowed to use the commands NPM, Run and Serve which allows it to boot up the front-end through the command line.
 
+To make sure this is (semi)automated, I've added a file in the .github\workflows folder of both my front-end and back-end; due to the way this is set up, a Github action will be performed that immediately updates the Docker image whenever I push or pull from the main branch.
+
+![image](https://user-images.githubusercontent.com/84009857/174472737-884aeef4-b851-435e-9bc5-3f96497f7875.png)
+
+![image](https://user-images.githubusercontent.com/84009857/174472730-63613ec2-6496-40fe-823c-34238f62eff8.png)
+
+![image](https://user-images.githubusercontent.com/84009857/174472774-f292bc80-1982-45a9-a4d3-95e5662b234d.png)
+
+![image](https://user-images.githubusercontent.com/84009857/174472753-2259f956-180f-4fbd-978e-18e04a87acbf.png)
+
+This is done with NodeJS and Maven accordingly to the front-end and back-end.
+
 ## 4. You act in a professional manner during software development and learning.
 
 I made sure to actively ask and apply feedback from our teacher for this project, and we talked (nearly) every week on Wednesday where I&#39;d show what I&#39;m currently working on and struggling with. This has definitely helped me engage in this project more productively, due to getting help with certain issues I couldn&#39;t quite figure out on my own due to both Vue and Java being unknown to me before this semester.
