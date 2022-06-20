@@ -6,11 +6,11 @@ Voor ons groepsproject heb ik voornamelijk aan de back-end gewerkt, maar als gro
 
 We hebben besloten om onze front-end in Vue te maken, en onze back-end is gemaakt in C#.
 
-Hier is de link voor de repositories van onze Front-end en Back-end.
+Hier is de link voor de repositories van onze [Front-end](https://github.com/s3gp-foodies/restaurant-frontend) en [Back-end](https://github.com/s3gp-foodies/restaurant-backend).
 
 ## 3. You choose and implement the most suitable agile software development method for your software project.
 
-Voor deze leeruitkomst heeft onze groep een groepsonderzoek gedaan over Agile, waarbij we allemaal verschillende Agile-methodes hebben onderzocht om te beslissen welk voor ons project het beste was. 
+Voor deze leeruitkomst heeft onze groep [een groepsonderzoek gedaan over Agile](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md), waarbij we allemaal verschillende Agile-methodes hebben onderzocht om te beslissen welk voor ons project het beste was. 
 
 Ik had besloten om Scrum te onderzoeken en dat was uiteindelijk ook de agile software methode die we besloten hadden om te gebruiken omdat de andere methodes niet toepasselijk waren voor ons project. 
 
@@ -19,11 +19,11 @@ Dus daarom leek Scrum ons het beste.
 
 ## 5. You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development.
 
-Voor deze leeruitkomst heb ik een document geschreven over culturele verschillen en ethiek. Hoewel culturele verschillen in ons project niet echt voorkwamen heb ik veel geschreven over ethiek in de technologie, culturele verschillen in korte afstanden zoals landen die naast elkaar liggen en ook culturele verschillen die ik zelf ben tegen gekomen.
+Voor deze leeruitkomst heb ik [een document geschreven over culturele verschillen en ethiek](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/CultureleVerschillen.md). Hoewel culturele verschillen in ons project niet echt voorkwamen heb ik veel geschreven over ethiek in de technologie, culturele verschillen in korte afstanden zoals landen die naast elkaar liggen en ook culturele verschillen die ik zelf ben tegen gekomen.
 
 ## 6. You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques
 
-Voor deze leeruitkomst hebben we besloten een Architectuurdocument te maken waarmee we volledig in diepte konden gaan over de designs die we nodig zouden hebben om een goed beeld van het project te krijgen. Mijn eigen beredenering voor deze designs heb ik in dat document toegevoegd, aangezien ik anders alle afbeeldingen dubbel zou moeten plaatsen in dit document wat nogal onoverzichtelijk zou zijn.
+Voor deze leeruitkomst hebben we besloten [een Architectuurdocument](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/Architectuurdocument.md) te maken waarmee we volledig in diepte konden gaan over de designs die we nodig zouden hebben om een goed beeld van het project te krijgen. Mijn eigen beredenering voor deze designs heb ik in dat document toegevoegd, aangezien ik anders alle afbeeldingen dubbel zou moeten plaatsen in dit document wat nogal onoverzichtelijk zou zijn.
 
 ## 7. You analyze and describe simple business processes that are related to your project.
 
