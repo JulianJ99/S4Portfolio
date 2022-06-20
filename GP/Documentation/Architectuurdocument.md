@@ -8,15 +8,15 @@
 
 # Inhoud
 
-[Versie historie](#_Toc104814172)
+[Versie historie](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/Architectuurdocument.md#versie-historie)
 
-[Architectuur](#_Toc104814173)
+[Architectuur](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/Architectuurdocument.md#architectuur)
 
-[C4-diagrammen](#_Toc104814174)
+[C4-diagrammen](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/Architectuurdocument.md#c4-diagrammen)
 
-[PBS-diagram](#_Toc104814175)
+[PBS-diagram](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/Architectuurdocument.md#pbs-diagram)
 
-[Wireframes](#_Toc104814176)
+[Wireframes](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/Architectuurdocument.md#wireframes)
 
 # Architectuur
 
