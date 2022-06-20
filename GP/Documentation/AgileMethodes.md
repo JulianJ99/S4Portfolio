@@ -2,15 +2,13 @@
 
 _Onderzoek S3 GP_
 
-![](RackMultipart20220620-1-rkldkw_html_fda25986679abf72.png)
+![image](https://user-images.githubusercontent.com/84009857/174650268-484afcca-4dd9-4e6c-b60c-d147c07ea995.png)
 
 **Justin van de Laar, Julian Janssen, Thisoban Mahalingam, Francois Haan, Bas Onrust, David Hellinga**
 
 Lente 2022
 
 S-DB-GPS3-S3-DB01
-
-#
 
 **[Introductie](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#introductie)**
 
@@ -22,29 +20,29 @@ S-DB-GPS3-S3-DB01
 
 **[Wat houden die methodes in?](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#wat-houden-die-methodes-in)**
 
-**[Scrum](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#scrum) **
+**[Scrum](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#scrum)**
 
-**[Kanban](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#kanban) **
+**[Kanban](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#kanban)**
 
-**[Extreme Programming](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#extreme-programming) **
+**[Extreme Programming](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#extreme-programming)**
 
-**[De regels](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#de-regels) **
+**[De regels](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#de-regels)**
 
-**[Lean](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#lean) **
+**[Lean](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#lean)**
 
-**[Introductie](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#introductie) **
+**[Introductie](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#introductie)**
 
-**[Bekend voorbeeld van lean](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#bekend-voorbeeld-van-lean) **
+**[Bekend voorbeeld van lean](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#bekend-voorbeeld-van-lean)**
 
-**[Verschil met Agile](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#verschil-met-agile) **
+**[Verschil met Agile](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#verschil-met-agile)**
 
-**[Verschil met Scrum](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#verschil-met-scrum) **
+**[Verschil met Scrum](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#verschil-met-scrum)**
 
-**[Crystal](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#crystal) **
+**[Crystal](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#crystal)**
 
 **[Welke Agile methode is geschikt voor het project?](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#welke-agile-methode-is-geschikt-voor-het-project)**
 
-**[Wat betekent dit voor het team?](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#wat-betekent-dit-voor-het-team?) **
+**[Wat betekent dit voor het team?](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#wat-betekent-dit-voor-het-team?)**
 
 # Introductie
 
@@ -65,7 +63,7 @@ _Thisoban Mahalingam_
 
 Agile betekent om in een bepaalde tijd samen in een team in stages te gaan werken. Om ervoor te te zorgen dat je samen in een sprint met de klant communiceert en een milestone oplevert. Het testen en parallel en gesynchroniseerd samen in een team in een sprint om een bepaalde milestone te testen en te ontwikkelen.
 
-![](RackMultipart20220620-1-rkldkw_html_72e22769665f9057.png)
+![image](https://user-images.githubusercontent.com/84009857/174650308-a7b1452b-c419-4e87-aa3e-a1aa96ac29dc.png)
 
 Principe van de agile methodes zijn:
 
@@ -88,7 +86,7 @@ _David Hellinga_
 
 Er zijn veel verschillende Agile methodes maar een kleine groep daarvan wordt door de overgrote meerderheid van teams gebruikt. Volgens de laatste State of Agile uit 2021 gebruikt ~93% van teams een mix van Scrum, Kanban, Extreme Programming (XP) en Lean. Scrum is duidelijk de meest dominante met 66% puur Scrum en 15% Scrum met elementen van Kanban of XP.
 
-![](RackMultipart20220620-1-rkldkw_html_4e22e730e412be83.png)
+![image](https://user-images.githubusercontent.com/84009857/174650334-7a9fa829-5056-47c5-baf5-8793ae88cbda.png)
 
 Daarnaast wordt in veel lijsten van top methodes Crystal genoemd als een van de populaire opties. In het volgende hoofdstuk zullen we dus deze vijf methodes onderzoeken.
 
@@ -144,7 +142,7 @@ Onder To do hangt het team al zijn taken van de huidige sprint en deze taken wor
 
 **De bijeenkomsten in Scrum:**
 
-![](RackMultipart20220620-1-rkldkw_html_1d6e5f9462b460a7.png)
+![image](https://user-images.githubusercontent.com/84009857/174650353-2838980c-205d-4d40-9934-af018ebf43af.png)
 
 Het scrum proces kent een vast ritme van vier bijeenkomsten die in dezelfde volgorde plaatsvinden. Die zijn als volgt;
 
@@ -235,7 +233,7 @@ De regels van XP kunnen onder vijf categorieën worden gezet.
 3. Maak veel kleine releases
 4. Splits het project in iteraties: Iteraties zijn een tot drie weken. Voortgang wordt per iteratie gemeten en de planning voor een iteratie wordt aan het begin daarvan samengesteld. Er mag niet worden gewerkt aan dingen die niet in de huidige iteratie zijn gepland.
 
-![](RackMultipart20220620-1-rkldkw_html_dbcdb061cadb8ce1.png)
+![image](https://user-images.githubusercontent.com/84009857/174650385-617b1d85-56b9-4760-8683-24d00d0250ae.png)
 
 **Management**
 
@@ -284,7 +282,7 @@ Heeft dit waarde voor de klant?
 
 Als de medewerker de vraag beantwoord met nee dan wordt het gezien als verspilling. Op het moment van verspilling wordt het proces gestopt. Door het te elimineren van deze processen krijg je een kortere doorlooptijd en hogere klantvriendelijkheid in het einde.
 
-![](RackMultipart20220620-1-rkldkw_html_4437e9698d6c1d41.png)
+![image](https://user-images.githubusercontent.com/84009857/174650401-ddfeabbc-51fa-4e6e-a4ba-fcf209fa5e15.png)
 
 ### Bekend voorbeeld van lean
 
@@ -316,7 +314,9 @@ Scrum staat bekend om zijn korte sprint waarin in heel veel wordt afgestemd met 
 
 Scrum staat natuurlijk ook bekend om zijn retrospectives en planning. Hierin begeleidt de scrum master dit proces en faciliteert dit naar het team. In dit proces bepaalt de product owner de prioriteiten voor aankomende sprint. De prioriteiten worden meestal afgestemd op het product met de teams.
 
-Scrum is meer gericht op het product en het process met de klant. Gedurende dit proces wordt er altijd gekeken naar wat kan beter en wat ging er mis. Wat willen we behouden en wat doen we weg. ![](RackMultipart20220620-1-rkldkw_html_a315ace0b0ab7b55.png)
+Scrum is meer gericht op het product en het process met de klant. Gedurende dit proces wordt er altijd gekeken naar wat kan beter en wat ging er mis. Wat willen we behouden en wat doen we weg. 
+
+![image](https://user-images.githubusercontent.com/84009857/174650424-6ab5e5aa-7b44-4f89-8c11-c1a4b8b2445c.png)
 
 Lean focust zich meer op het proces. Lean kijkt wat levert iets op voor de klant en wat niet. Wat niks oplevert noemen we waste en gooien we weg.
 
@@ -332,7 +332,7 @@ Crystal onderscheid zich van andere agile methodes doordat het niet één softwa
 
 Iedere methode of proces krijgt een eigen kleur, waarbij geldt dat hoe donkerder de kleur is hoe belangrijkere taken het team oppakt. Aan de groepen met donkere kleuren zullen dus ook meer mensen bij betrokken zijn dan bij de lichtere. De kleuren zijn ingedeeld op basis van kristallen. Voorbeelden ervan zijn Crystal Maroon, Crystal Red, Crystal Orange, Crystal Yellow en Crystal Clear van donker naar lichter.
 
-![](RackMultipart20220620-1-rkldkw_html_a43f7793f45bbe2a.png)
+![image](https://user-images.githubusercontent.com/84009857/174650448-92546859-747c-4688-9aa6-6cdeb590218b.png)
 
 De voordelen van het Crystal Agile methode:
 
