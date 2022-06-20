@@ -12,39 +12,39 @@ S-DB-GPS3-S3-DB01
 
 #
 
-**[Introductie](#_3v057v8vqm6g) 3**
+**[Introductie](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#introductie)**
 
-**[Onderzoeksvragen](#_3wzox1akoyth) 3**
+**[Onderzoeksvragen](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#onderzoeksvragen)**
 
-**[Wat is Agile? Wat zijn de Agile principes?](#_9g9c8n2404kr) 4**
+**[Wat is Agile? Wat zijn de Agile principes?](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#wat-is-agile-wat-zijn-de-agile-principes)**
 
-**[Wat zijn de meest populaire Agile methodes?](#_u7zn52kh56iv) 5**
+**[Wat zijn de meest populaire Agile methodes?](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#wat-zijn-de-meest-populaire-agile-methodes)**
 
-**[Wat houden die methodes in?](#_xa84nvjm3tyx) 6**
+**[Wat houden die methodes in?](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#wat-houden-die-methodes-in)**
 
-[Scrum](#_mmvezlh28eoj) 6
+**[Scrum](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#scrum) **
 
-[Kanban](#_esrkqljj5yx9) 10
+**[Kanban](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#kanban) **
 
-[Extreme Programming](#_wazozooefzr4) 12
+**[Extreme Programming](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#extreme-programming) **
 
-[De regels](#_q091603x7zgn) 12
+**[De regels](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#de-regels) **
 
-[Lean](#_c3zwt4snzxb0) 15
+**[Lean](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#lean) **
 
-[Introductie](#_nhxmewzgr5a0) 15
+**[Introductie](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#introductie) **
 
-[Bekend voorbeeld van lean](#_2grnhoeftqpk) 15
+**[Bekend voorbeeld van lean](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#bekend-voorbeeld-van-lean) **
 
-[Verschil met Agile](#_pgw2ansmgkmk) 16
+**[Verschil met Agile](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#verschil-met-agile) **
 
-[Verschil met Scrum](#_xlnj9gmlwr1g) 17
+**[Verschil met Scrum](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#verschil-met-scrum) **
 
-[Crystal](#_ru32qh73r6mt) 18
+**[Crystal](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#crystal) **
 
-**[Welke Agile methode is geschikt voor het project?](#_4g9s3gpzlgd1) 20**
+**[Welke Agile methode is geschikt voor het project?](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#welke-agile-methode-is-geschikt-voor-het-project)**
 
-**[Wat betekent dit voor het team?](#_9g6w62izz9p0) 20**
+**[Wat betekent dit voor het team?](https://github.com/JulianJ99/Portfolio/blob/main/GP/Documentation/AgileMethodes.md#wat-betekent-dit-voor-het-team?) **
 
 # Introductie
 
@@ -58,7 +58,6 @@ In Semester 3 horen we het groepsproject op basis van een Agile methode uit te v
 4. Welke Agile methode is geschikt voor het project?
 5. Wat betekent dit voor het team?
 
-#
 
 # Wat is Agile? Wat zijn de Agile principes?
 
@@ -83,7 +82,7 @@ Principe van de agile methodes zijn:
 11. Vaker reflecteren en aanpassen op de manier van werken om de effectiviteit van werk te verhogen als groep ga je vaak reflecteren van wat beter kan om efficiënter te werken.
 
 
-# 1 Wat zijn de meest populaire Agile methodes?
+# Wat zijn de meest populaire Agile methodes?
 
 _David Hellinga_
 
