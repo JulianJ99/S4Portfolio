@@ -61,11 +61,12 @@ What is OAuth 2.0 and what does it do for you? - Auth0. (n.d.). Auth0. Retrieved
 ### What is a JWT token?
 A JSON web token is a secure way of transmitting information between parties through a compact and self-contained JSON object. The information can be trusted and verified because it's digitally signed. JWTs can be signed using a secret or a public/private key.
 
-
 ### When is a Web Token applicable?
-Jwts are useful for authorization and information, authorization is the most common way for using a jwt. once the user is logged in every subsequent request will include a jwt allowing the user access to resources , services etc. Single sign on is a widely used feature that uses jwt.
+JWTs are applicable when your project requires authorization and information. 
 
-For information exchange jwts are a good way of safely transmitting information between parties. Because jwts can be signed you can be sure the senders are who they say they are, you can also verify that the content inside of the header hasn't been tampered with.
+They're mostly used for authorization; once the user is logged in through the identity provider, every subsequent request will include the JWT so that the user can access all resources and services their account is allowed to use. The most widely-used feature for JWT's is Single Sign-on.
+
+JWT's are also reliable for information exchange; they can safely transmit information between parties due to being able to protect sensitive data with private claims. Because JWT's are signed, you can verify that the sender of the JWT is who it says it is in the case of tokens signed with a private key
 
 ### What is the structure of a JSON web token?
 A JSON web token consists of three seperate parts seperated by dots, namely;
