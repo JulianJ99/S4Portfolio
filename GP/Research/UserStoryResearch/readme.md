@@ -11,6 +11,7 @@ Our current projects require user stories to get a clear image of the necessary 
 ### What is a user story?
 
 In terms of a programming project, a user story is an example of a functionality of the project through the perspective of a potential user. Looking at the functionality through that perspective allows them to work on it in a way they originally wouldn&#39;t have thought of.
+
 Atlassian. (n.d.). User Stories | Examples and Template. Retrieved June 21, 2022, from https://www.atlassian.com/agile/project-management/user-stories
 
 ### What should be included in a user story?
