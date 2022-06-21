@@ -110,7 +110,7 @@ These claim names are only three characters long because a JWT is meant to be co
 The best way to describe these is that they can be defined at will by the user of the JWT's. But to avoid collisions, they should be defined as a URI that contains a collision resistant namespace.
 
 **Private claims**
-These are the custom claims created to share information between parties that gave their constent on having this information shared.
+These are the custom claims created to share information between parties that gave their consent on having this information shared.
 
 An example of a payload could be:
 
