@@ -1,5 +1,10 @@
 # Research – User stories
 
+## Method
+For this research, I'll be using the dot framework; more specifically, Library Research and Literature Study.
+
+For both of these research methods, I'll be going through trustworthy sources to help me better understand how to write a proper user story.
+
 ## Problem definition
 
 Our current projects require user stories to get a clear image of the necessary functionalities of the application. Our knowledge in this is currently lacking, so we decided to research the topic to learn more.
