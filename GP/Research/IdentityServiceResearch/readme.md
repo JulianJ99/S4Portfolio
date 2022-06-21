@@ -159,3 +159,12 @@ All this combined makes Auth0 the Identity Service I&#39;m most interested in wo
 The best way to use a safe identity service for this project is to use a solution that&#39;s got everything regarding security handled, and after researching several examples of this, I&#39;ve decided to use Auth0 2.0.
 
 It doesn't take much time to set up which allows you to use more time and effort figuring out the essential parts of your project while also managing security issues with far more detail than a custom-made login system likely would.
+
+### Sources:
+https://www.techtarget.com/searchsecurity/definition/identity-provider
+
+https://www.okta.com/uk/identity-101/why-your-company-needs-an-identity-provider/
+
+https://auth0.com/intro-to-iam/what-is-oauth-2/
+
+https://jwt.io/introduction
