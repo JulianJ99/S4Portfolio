@@ -41,4 +41,5 @@ User story 1: As a music fan, I would like to log in to my account so I can shar
 
 #### Sources:
 https://agilescrumgroup.nl/wat-is-definition-of-done/
+
 https://www.atlassian.com/agile/project-management/user-stories
