@@ -29,10 +29,11 @@ Identity Providers are easy to implement and can be used to solve multiple IT-pr
 
 Identity Providers (IdPs): What They Are and Why You Need One | Okta. Okta, Inc. Retrieved June 21, 2022, from https://www.okta.com/uk/identity-101/why-your-company-needs-an-identity-provider/
 
-What are some of the most popular providers?
+### What are some popular example of Identity Providers?
+Some of the more well-known examples of Identity Providers are Microsoft, Google, Facebook and Github - these are all Identity Providers people have likely made use of, meaning it'll be reliable to assume your users will have an account on atleast one of these services.
 Some examples are github, google, facebook and microsoft are some of the most popular providers which most people probably will have an account on at least one of these services
 
-Lutkevich, B. (2021, 28 september). identity provider. SearchSecurity. Geraadpleegd op 1 juni 2022, van https://www.techtarget.com/searchsecurity/definition/identity-provider
+Lutkevich, B. (2021, September 28). identity provider. SearchSecurity. Retrieved June 21, 2022, from https://www.techtarget.com/searchsecurity/definition/identity-provider
 
 ### What is OAuth 2.0?
 
@@ -136,7 +137,7 @@ The signature is used to verify the message wasn't changed through it's journey 
 
 auth0.com. (n.d.). JWT.IO - JSON Web Tokens Introduction. JSON Web Tokens - Jwt.Io. Retrieved June 21, 2022, from https://jwt.io/introduction
 
-## What are the pros of using Auth0?
+### What are the pros of using Auth0?
 
 Auth0 is designed to help developers solve problems like integration of various logging services by implementing an authentication service with the best features set.
 
@@ -157,11 +158,3 @@ All this combined makes Auth0 the Identity Service I&#39;m most interested in wo
 The best way to use a safe identity service for this project is to use a solution that&#39;s got everything regarding security handled, and after researching several examples of this, I&#39;ve decided to use Auth0 2.0.
 
 It doesn't take much time to set up which allows you to use more time and effort figuring out the essential parts of your project while also managing security issues with far more detail than a custom-made login system likely would.
-
-#### Sources:
-
-[https://auth0.com/docs/get-started/auth0-overview](https://auth0.com/docs/get-started/auth0-overview)
-
-[https://www.cloudflare.com/learning/access-management/what-is-identity-as-a-service/](https://www.cloudflare.com/learning/access-management/what-is-identity-as-a-service/)
-
-[https://agilie.com/en/blog/reasons-to-use-auth0-for-authentication-in-your-application](https://agilie.com/en/blog/reasons-to-use-auth0-for-authentication-in-your-application)
